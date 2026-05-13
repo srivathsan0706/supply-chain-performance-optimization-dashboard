@@ -55,11 +55,20 @@ Analyzes:
 - City-level operational performance
 - Shipping delays by location
 - Revenue contribution by city
-- Inventory stock gap risks
+- Inventory stock gap risks  
 
 ---
 
-### 3. City-Level Operational Analysis
+### 3. City-Level Operational Drillthrough
+Interactive drillthrough analysis page enabling deeper city-level operational investigation including:
+- SKU defect tracking
+- Supplier-specific quality analysis
+- Inspection status monitoring
+- Product category revenue contribution
+
+---
+
+### 4. City-Level Operational Analysis
 Focuses on:
 - SKU-level performance tracking
 - Inspection status monitoring
@@ -68,7 +77,7 @@ Focuses on:
 
 ---
 
-### 4. Supplier Risk & Procurement Optimization
+### 5. Supplier Risk & Procurement Optimization
 Evaluates:
 - Supplier quality performance
 - Manufacturing cost efficiency
@@ -89,6 +98,7 @@ Analyzes:
 ## Key Business Insights
 - Skincare category generated the highest overall revenue contribution.
 - Road transportation showed the highest defect contribution despite high logistics spending.
+- Interactive drillthrough functionality enables operational teams to perform city-level root cause analysis directly from high-level dashboards.
 - Supplier 3 demonstrated the best balance between manufacturing cost and quality performance.
 - Delhi showed the highest inventory stock gap indicating replenishment risk.
 - Chennai contributed significantly to shipping delays and operational inefficiencies.
@@ -100,6 +110,7 @@ Analyzes:
 - DAX Calculations
 - KPI Development
 - Dashboard Design
+- Interactive Drillthrough Analysis
 - Supply Chain Analytics
 - Procurement Analytics
 - Logistics Performance Analysis
@@ -116,6 +127,10 @@ Analyzes:
 
 ### Regional Performance — City-Level Analysis
 <img width="1201" height="667" alt="image" src="https://github.com/user-attachments/assets/37fe7711-dc1e-4ec7-a61d-eb8f395fb6f2" />
+
+
+### City-Level Operational Drillthrough
+<img width="1192" height="668" alt="image" src="https://github.com/user-attachments/assets/98c6087a-48c3-4654-813e-a05c31c52f22" />
 
 
 ### Supplier Risk & Procurement Optimization Analysis
